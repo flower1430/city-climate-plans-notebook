@@ -1,3 +1,36 @@
-# Question 5
+## Q-5 What are some successful examples of cities implementing effective climate action plans?
+
+### Delhi city climate action plan
+They have started working on implementing many solution to mitigate the climate action plan which are listed here:
+- Improved public transportation
+- Promotion of Electric Vehicles
+- Green Spaces and Tree Plantation
+- Waste Management and Recycling
+- Solar Power Initiatives
+- Energy Efficiency Improvements
+- Awareness Campaigns
+- Water Conservation etc.
+
+### IPCC SYR SPM report_ section A.4.2 
+
+Following are the mitigation options in SYR SPM report
+
+- solar energy
+- wind energy
+- lithium-ion batteries
+- electrification of urban systems 
+- urban green infrastructure
+- energy efficiency
+- demand-side management
+- improved forest and crop/grassland management
+- reduced food waste and loss etc.
+
+### Here are examples of some cities in the world that have started adopting climate action plan
+
+- Copenhagen, Denmark:  Cycling infrastructure, renewable energy, and efficient public transportation systems
+- Vancouver, Canada: It promotes cycling and walking and enhance green spaces
+- Portland, USA: Comprehensive land use planning and public transportation system 
+- Melbourne, Australia: sustainable urban design, renewable energy and waste reduction
+- Oslo, Norway: electric public transportation, cycling infrastructure and energy-efficient buildings
 
 
