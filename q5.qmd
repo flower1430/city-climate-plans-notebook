@@ -1,3 +1,19 @@
 # Question 5
+## What are some successful examples of cities implementing effective climate action plans?
 
+#### Title: Climate Change 2014 Synthesis Report Summary for Policymakers_Section: SPM 4. Adaptation and Mitigation (see here)[https://www.ipcc.ch/site/assets/uploads/2018/02/AR5_SYR_FINAL_SPM.pdf]
+
+Following are the approaches for managing the risks of climate change through adaptation: ```Table SPM 3```
+
+- Human development
+- Ecosystem management
+- Spatial or land-use planning
+- Ecosystem based options 
+- Solar energy
+- urban green infrastructure
+- energy efficiency
+- demand-side management
+- improved forest and crop/grassland management
+- National & government policies & programs
+- Land zoning laws and Building standards etc.
 
